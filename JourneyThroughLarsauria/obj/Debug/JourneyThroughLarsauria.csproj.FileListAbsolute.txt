@@ -1,0 +1,9 @@
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\bin\Debug\JourneyThroughLarsauria.exe.config
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\bin\Debug\JourneyThroughLarsauria.exe
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\bin\Debug\JourneyThroughLarsauria.pdb
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\obj\Debug\JourneyThroughLarsauria.csprojAssemblyReference.cache
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\obj\Debug\JourneyThroughLarsauria.Properties.Resources.resources
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\obj\Debug\JourneyThroughLarsauria.csproj.GenerateResource.cache
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\obj\Debug\JourneyThroughLarsauria.csproj.CoreCompileInputs.cache
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\obj\Debug\JourneyThroughLarsauria.exe
+C:\Users\rnirn\Documents\JourneyThroughLarsauria\JourneyThroughLarsauria\obj\Debug\JourneyThroughLarsauria.pdb
